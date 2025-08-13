@@ -1,0 +1,325 @@
+html{
+    font-size: 16px;
+}
+
+body{
+    background: #FFF8F0;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color:#55206D;
+    margin: 0;
+    padding: 0;
+}
+
+.symbol{
+    width: 15px;
+    height: 15px;
+    padding-top: 20px;
+    padding-right: 2px;
+}
+
+h1{
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    line-height: 50px;
+    color: #190D37;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+h2{
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 36px;
+    line-height: 40px;
+    text-align: center;
+    color: #000000;
+    margin: 14px auto 0 auto;
+    max-width: 700px;
+}
+
+h3{
+    width: 300;
+    height: 27;
+    top: 959px;
+    left: 210px;
+    font-family: Poppins;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 18px;
+    line-height: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+    margin: 0 auto;
+}
+
+.bigtext{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+}
+
+#hero-section{
+    display: flex;
+    margin: 0 auto;
+    max-width: 1440px;
+    max-height: 600px;
+}
+
+#hero-text{
+    width: 50%;
+    padding: 32px 20px 32px 20px;
+}
+
+#hero-image-wrapper{
+    width: 50%;
+}
+
+#hero-image{
+    width: 100%;
+    width: 710;
+    height: 600;
+    left: 730px;
+    opacity: 1;
+    border-bottom-right-radius: 200px;
+    border-bottom-left-radius: 200px;
+}
+
+.smalltext{
+    font-family: "Inter", sans-serif;
+    color: #000000;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+#hi-and-name{
+    width: 135;
+    height: 19;
+    margin-top: 52px;
+    left: 190px;
+}
+
+#Sub-title-1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    line-height: 32px;
+}
+
+#contact-button{
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    color: #FFFFFF;
+    background: #2F2F2F;
+    width: 138;
+    height: 44;
+    top: 456px;
+    left: 190px;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+.what-i-do{
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.overtitle{
+    width: 100px;
+    height: 18;
+    top: 696px;
+    left: 688px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 12px;
+    line-height: 100%;
+    color: #2858FF;
+    margin: 96 auto 0 auto;
+}
+
+#Sub-title-2{
+    width: 686;
+    height: 81;
+    top: 810px;
+    left: 370px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    text-align: center;
+    margin: 20px auto;
+    color:#190D37;
+
+}
+
+#three-column-layout{
+    display: flex;
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+.Three-Column{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #55206D;
+    margin: 0 15px;
+    width: 340px;
+    height: 291;
+    top: 939px;
+    left: 190px;
+    border-radius: 10px;
+    background: #FFFFFF;
+    box-shadow: 6px 2px 25px -9px #0000001A;
+    padding: 18px;
+    padding-top: 32px;
+    text-align: center;
+    line-height: 24px;
+    font-size: 16px;
+}
+
+#Project-section{
+    margin: 0 auto;
+    width: 1440px;
+}
+
+#Sub-title-3{
+    width: 686;
+    height: 81;
+    top: 1442px;
+    left: 370px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.project-info{
+    display: flex;
+    max-width: 1440px;
+}
+
+.logo{
+    border-radius: 10px;
+    max-width: 100%;
+    margin: 0 auto;
+    margin-right: 0px;
+    width: 70px;
+    height: 70px;
+    padding: 45px;
+}
+
+.Project-text{
+    max-width: 100%;
+    margin: 0 auto 0 20px;
+
+}
+ 
+#logo-1{
+    color: white;
+    background: #19ACFF;
+    font-family: Poppins;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    line-height: 100%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#logo-2{
+    color: black;
+    background: #FFE819;
+    font-family: Poppins;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    line-height: 100%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#logo-3{
+    color: white;
+    background: #FF1919;
+    font-family: Poppins;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    line-height: 100%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.Project-subtext{
+    width: 880;
+    height: 96;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #55206D;
+}
+
+.h3-project{
+    text-align: left;
+    margin-left: 0px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.project-link{
+    width: 200;
+    height: 200;
+    top: 1712px;
+    left: 369px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 14px;
+    line-height: 100%;
+    color: #6A87A3;
+    text-decoration: none;
+}
+
+#footer{
+    width: 1440px;
+    height: 58px;
+    top: 2258px;
+    background: #000000;
+    margin: 0 auto;
+}
+
+#footer-text{
+    width: 235;
+    height: 18;
+    top: 2278px;
+    left: 602px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 12px;
+    line-height: 100%;
+    color: #FFFFFF;
+    margin: 20px auto;
+    margin-top: 85px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
